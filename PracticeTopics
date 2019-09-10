@@ -1,12 +1,23 @@
 Important Linux commands(awk, sed, tr, sort, curl, find, cut, gerp, ps, prstat, netstat)
+
 SVN vs GIT
+
 Docker advantages in devops:
   1. Docker maintains the stability across all the environments (i.e. dev/uat/prod) deployment.
   2. Use of the same image across all level of environmental deployment.
-  3. We can run the contianers independent of platform.
-  4. It maintins isolated set of binaries utilized by application.
-differnce between container and vm
-apache modules integration with tomcat
+  3. We can run the containers independent of platform.
+  4. It maintains isolated set of binaries utilized by application.
+  5. Provide robust solution for continues deployment.
+Difference between container and vm:
+  1. More scalable (i.e. we can run any number of container)
+  2. We can run containers much easier and faster then virtual machine.
+  3. Occupies less space compared to virtual machine.
+  4. Easy to migrate.
+
+Apache modules integration with tomcat
+
 Docker commands
+
 Dynamic web application deployment using docker
+
 Monitoring.
